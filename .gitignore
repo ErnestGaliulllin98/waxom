@@ -11,7 +11,7 @@ firebase-debug.*.log*
 .firebase/
 
 # Root directory
-\#src/
+# \#src/
 
 # Gulp config
 gulpfile.js
